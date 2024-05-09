@@ -1,3 +1,9 @@
 mysqlclient
 sqlalchemy
 streamlit
+numpy
+pandas
+pickle
+xgboost
+plotly
+matplotlib
